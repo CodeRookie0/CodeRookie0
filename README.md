@@ -7,11 +7,6 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryia-sh&label=Profile%20views&color=0e75b6&style=flat" alt="maryia-sh" /> </p>
 
-<p>My last and coolest project "Budget management app" ❤️</p>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-CodeRookie0%2Fbudget__management__app-blue)](https://github.com/CodeRookie0/budget_management_app.git)
-
-
 **Talking about Personal Stuffs:**
 
 - 🔭 I am a **Programming rookie**.
@@ -47,6 +42,13 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
     <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" alt="sql" width="50" height="50"/>
   </a>
 </p>
+
+<br><br>
+<p>My last and coolest project "Budget management app" ❤️</p>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-CodeRookie0%2Fbudget__management__app-blue)](https://github.com/CodeRookie0/budget_management_app.git)
+
+![Project](budget_management.png)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRookie0&show_icons=true&locale=en&layout=compact" alt="CodeRookie0" /></p>
 
