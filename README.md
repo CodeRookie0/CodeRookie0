@@ -43,7 +43,7 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
   </a>
 </p>
 
-<br><br>
+<br>
 <p>My last and coolest project "Budget management app" ❤️</p>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-CodeRookie0%2Fbudget__management__app-blue)](https://github.com/CodeRookie0/budget_management_app.git)
