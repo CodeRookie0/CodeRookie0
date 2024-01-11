@@ -44,7 +44,7 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fontawesome/database-plain.svg" alt="sql" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" alt="sql" width="50" height="50"/>
   </a>
 </p>
 
