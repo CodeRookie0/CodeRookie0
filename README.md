@@ -6,6 +6,7 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
 <p align="left">Next year I will be studying 3D visualization at university. I'm looking forward to this :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryia-sh&label=Profile%20views&color=0e75b6&style=flat" alt="maryia-sh" /> </p>
+My last and coolest project, made with love ❤️
 [Moje Repozytorium](https://github.com/CodeRookie0/budget_management_app.git)
 
 **Talking about Personal Stuffs:**
