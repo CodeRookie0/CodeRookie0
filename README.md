@@ -51,8 +51,6 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRookie0&show_icons=true&locale=en&layout=compact" alt="CodeRookie0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeRookie0&show_icons=true&locale=en" alt="CodeRookie0" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeRookie0&" alt="CodeRookie0" /></p>
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRookie0&theme=transparent" alt="CodeRookie0" /></p>
