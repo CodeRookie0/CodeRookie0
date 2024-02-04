@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
 
 I am a student at the University of Lodz, Poland. I like programming and learning new things. I am currently looking for my passion, so I try to program in different programming languages ​​and try myself in everything. But I am mostly focused on C#.
-<p align="left">Next year I will be studying 3D visualization at university. I'm looking forward to this :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryia-sh&label=Profile%20views&color=0e75b6&style=flat" alt="maryia-sh" /> </p>
 
@@ -55,4 +54,6 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeRookie0&show_icons=true&locale=en" alt="CodeRookie0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeRookie0&" alt="CodeRookie0" /></p>
+
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeRookie0&theme=transparent" alt="CodeRookie0" /></p>
 
