@@ -41,14 +41,23 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
     <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" alt="sql" width="50" height="50"/>
   </a>
 </p>
-
 <br>
-<p>My last and coolest project "Budget management app" ❤️</p>
+
+## My latest and greatest projects
+
+### Travel agency database 🌍
+Discover my SQL project for managing a travel agency database. Organize customer details, bookings and destinations in an efficient way.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-CodeRookie0%2FTravel--Agency--DB-blue)](https://github.com/CodeRookie0/Travel-Agency-DB.git)
+
+![Project](travel_agency_db.jpg)
+### Budget management app 💰
+Check out my C# project - a budgeting application built to streamline your financial tracking and planning.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-CodeRookie0%2Fbudget__management__app-blue)](https://github.com/CodeRookie0/budget_management_app.git)
 
 ![Project](budget_management.png)
-
+## Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRookie0&show_icons=true&locale=en&layout=compact" alt="CodeRookie0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeRookie0&" alt="CodeRookie0" /></p>
