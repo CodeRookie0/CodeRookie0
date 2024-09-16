@@ -45,6 +45,12 @@ I am a student at the University of Lodz, Poland. I like programming and learnin
 
 ## My latest and greatest projects
 
+### LearnProg - C++ e-learning platform 🎓
+Explore my web-based e-learning platform for learning C++. It features interactive courses for beginners, intermediate, and advanced levels.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-CodeRookie0%2FLearnProg_web_application-blue)](https://github.com/CodeRookie0/LearnProg_web_application.git)
+
+![Project](learn_prog_webapp.png)
 ### Travel agency database 🌍
 Discover my SQL project for managing a travel agency database. Organize customer details, bookings and destinations in an efficient way.
 
